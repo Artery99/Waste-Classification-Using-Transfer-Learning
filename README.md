@@ -1,4 +1,4 @@
-# Waste-Classification-Using-Transfer-Learning
+# Waste Classification Using Transfer Learning
 
 # Project Overview
 This project aims to automate waste classification using deep learning. By leveraging transfer learning with the VGG16 model, the model can accurately distinguish between recyclable and organic waste based on image data.
